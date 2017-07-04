@@ -15,7 +15,7 @@ The website of Joshua Project clearly mentions \([here](http://legacy.joshuaproj
 The description above shows why Joshua Project can be called sinister:  
 1. It waits for an end: The motivation to reach the masses and marginalized communities is not to improve their living conditions. In fact, reach to these communities is considered important because the end is conditional upon it.  
 2. Exclusion of 'upper castes': Perhaps assuming that approaching upper castes will require heavier efforts and may even attract attention, the database of peoples focuses highly on marginalized sections, even more so in remote areas - identifying them as the 'lower hanging fruits' in this race towards the end.  
-3. Conversion before emanicipation: The narrative conveniently and unfearingly makes its intentions clear. It doesn't exhibit motivation to improve the lives of its target populations without converting them first. This is in loose terms - quid pro quo.  
+3. Conversion before emanicipation: The narrative conveniently and unfearingly makes its intentions clear. It doesn't exhibit motivation to improve the lives of its target populations without converting them first. This can be loosely compared with the concept of quid pro quo.  
   
 ### Colonization and Slavery  
 This document states "How colonization and slavery are still not a thing of the past" at the beginning. This is not difficult to understand. The missionaries have for long benefitted by virtue of their religious institution status and have acquired lands in several areas in India. They have 
@@ -23,5 +23,9 @@ This document states "How colonization and slavery are still not a thing of the 
 ### Effect on culture  
   
 Joshua Project is a strongly funded organisation and it would be worthwhile to explore its networks, mission and actual activities. The reader is suggested to feel free to download the resources shared in this repository and contribute to the project.  
+  
+### Some other resources to inform the argument:  
+1. http://www.thetinyman.in/2016/02/joshua-project-india-christian-terrorism.html  
+2. https://en.wikipedia.org/wiki/Joshua_Project
   
 Janak
