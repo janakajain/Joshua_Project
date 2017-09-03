@@ -18,7 +18,7 @@ The description above shows why Joshua Project can be called sinister:
 3. Conversion before emanicipation: The narrative conveniently and unfearingly makes its intentions clear. It doesn't exhibit motivation to improve the lives of its target populations without converting them first. This can be loosely compared with the concept of quid pro quo.  
   
 ### Colonization and Slavery  
-This document states "How colonization and slavery are still not a thing of the past" at the beginning. This is not difficult to understand. The missionaries have for long benefitted by virtue of their religious institution status and have acquired lands in several areas in India. They have 
+This document states "How colonization and slavery are still not a thing of the past" at the beginning. This is not difficult to understand. The missionaries have for long benefitted by virtue of their religious institution status and have acquired lands in several areas in India. In fact, if you check the 10/40 window [here](https://en.wikipedia.org/wiki/10/40_Window), you will understand how calculated, targeted and and meticulous the entire approach is. It is a second wave of colonization that is lashing on shores of the Eastern Hemisphere.
   
 ### Effect on culture  
   
